@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+D:\Ð? án\d? án 2\altium\master\master\Project Outputs for master\Pick Place\Pick Place for master.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/11/23
+Time:       13:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Value"
+"U1","ESP32-WROOM-32","TopLayer","MODULE_ESP32-WROOM-32","92.7925","84.0190","0","Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Antenna Not Included, U.FL Surface Mount","92.7925","87.5140","84.2925","92.7740",""
+"R5","470","TopLayer","RES-SMD-0805","95.1231","69.0880","180","22","95.1230","69.0880","96.2661","69.0880",""
+"J2","10118194-0001LF","TopLayer","AMPHENOL_10118194-0001LF","98.4090","50.2450","360","Micro USB, Input Output Connectors, B TYPE RECEPTACLE with flange","98.4090","48.8950","97.1090","51.5700",""
+"U2","CH340C","TopLayer","SOP-16","99.9490","59.6900","270","USB to serial chip CH340","99.9490","59.6900","97.1490","64.1350",""
+"SW2","SW","TopLayer","SW-SMD","89.9160","49.1490","270","Switch button 2 pin","89.9160","49.1490","89.9160","52.6490","SW chip 2 pin"
+"SW1","SW","TopLayer","SW-SMD","107.3150","49.2760","270","Switch button 2 pin","107.3150","49.2760","107.3150","52.7760","SW chip 2 pin"
+"R7","10k","TopLayer","RES-SMD-0805","105.7910","63.7540","90","Resistor","105.7910","63.7540","105.7910","62.6110",""
+"R6","10k","TopLayer","RES-SMD-0805","105.7910","68.0720","90","Resistor","105.7910","68.0720","105.7910","66.9290",""
+"R4","10k","TopLayer","RES-SMD-0805","95.1231","71.6280","180","Resistor","95.1230","71.6280","96.2661","71.6280",""
+"R3","10k","TopLayer","RES-SMD-0805","92.2021","57.9120","180","Resistor","92.2020","57.9120","93.3451","57.9120",""
+"R2","10k","TopLayer","RES-SMD-0805","106.8071","55.4990","180","Resistor","106.8070","55.4990","107.9501","55.4990",""
+"R1","10k","TopLayer","RES-SMD-0805","87.6300","55.3720","0","Resistor","87.6300","55.3720","86.4869","55.3720",""
+"Q2","BC817","TopLayer","SOT95P240X97-3N","109.2200","61.7220","0","Bipolar (BJT) Transistor NPN 45V 500mA 100MHz 250mW Surface Mount TO-236AB","109.2200","61.7220","108.1532","62.6618",""
+"Q1","BC817","TopLayer","SOT95P240X97-3N","108.7120","70.2310","0","Bipolar (BJT) Transistor NPN 45V 500mA 100MHz 250mW Surface Mount TO-236AB","108.7120","70.2310","107.6452","71.1708",""
+"LED2","LED","TopLayer","LED-RED-0805","89.3445","70.4850","180","LED Single colour Green and Red","91.0590","70.4850","91.0590","70.4850","LED 3 ly Single Colour"
+"LED1","LED","TopLayer","LED-RED-0805","100.7745","69.9770","360","LED Single colour Green and Red","99.0600","69.9770","99.0600","69.9770","LED 3 ly Single Colour"
+"JDC1","Jack DC","TopLayer","DC-IN","80.8990","55.8800","90","Jack DC input","80.8990","55.8800","78.3590","59.0550","Jac DC"
+"DHT22","J1","TopLayer","JP3","76.9620","82.6897","270","Jumper 3","76.9620","82.6770","76.9620","85.2170","J3"
+"C11","100nF","TopLayer","CAP_0805","84.3280","70.6120","90","Capacitor","84.3280","70.6120","84.3280","69.4690","33p"
+"C10","100nF","TopLayer","CAP_0805","78.4861","70.6120","180","Capacitor","78.4860","70.6120","79.6291","70.6120","33p"
+"C9","100nF","TopLayer","CAP_0805","78.4861","61.9760","180","Capacitor","78.4860","61.9760","79.6291","61.9760","33p"
+"RS485","C8","TopLayer","JP4-C1T","108.4580","94.3610","90","WR-PHD 2.54 mm Angled Socket Header","108.4580","90.5510","108.4580","90.5510",""
+"EC","C7","TopLayer","JP4-C1T","76.8350","94.4880","270","WR-PHD 2.54 mm Angled Socket Header","76.8350","98.2980","76.8350","98.2980",""
+"RS485","C6","TopLayer","JP4-C1T","108.4580","80.8990","90","WR-PHD 2.54 mm Angled Socket Header","108.4580","77.0890","108.4580","77.0890",""
+"C5","104","BottomLayer","CAP_0805","87.7570","58.4200","360","Capacitor","87.7571","58.4200","86.6140","58.4200","33p"
+"C4","Cap Pol SMD","TopLayer","CAP-ALU-SMD-C","79.3750","66.0400","360","Polarized Capacitor (Radial)","79.3750","66.0400","77.0890","66.0400","100pF"
+"C3","1uF","TopLayer","CAP_0805","92.2021","55.3720","180","Capacitor","92.2020","55.3720","93.3451","55.3720","33p"
+"C2","10uF","TopLayer","CAP_0805","80.2640","75.0571","270","Capacitor","80.2640","75.0570","80.2640","76.2001","33p"
+"C1","10uF","TopLayer","CAP_0805","76.8350","74.9301","270","Capacitor","76.8350","74.9300","76.8350","76.0731","33p"
+"AMS1","AMS1117-3.3V","TopLayer","SOT223","89.5350","63.3730","90","Dán","89.5350","63.3730","92.6350","61.0730","AMS1117-3.3V SOT223"

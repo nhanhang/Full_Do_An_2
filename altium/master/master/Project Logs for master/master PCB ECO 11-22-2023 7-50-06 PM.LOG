@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=LED1 Old Footprint=LED-RED-0805 New Footprint=LED0805
+Change Component Footprint: Designator=LED2 Old Footprint=LED-RED-0805 New Footprint=LED0805
+Change Component Comment : Designator=R4 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=LED1 Old Comment=LED New Comment=LED3
+Change Component Comment : Designator=LED2 Old Comment=LED New Comment=LED3
+Change Component Designator: OldDesignator=SW1 NewDesignator=BOOT
+Change Component Designator: OldDesignator=SW2 NewDesignator=EN
+Change component parameters: Designator = "LED1"; Footprint = "LED0805"; UniqueID = "\MRVMTAIX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "LED2"; Footprint = "LED0805"; UniqueID = "\LTKGJTLC"
+Change component parameters. Clean all parameters for all variants
+Added Member To Class: ClassName=mach master Member=Component rs485 C6
+Added Room: Name=mach master

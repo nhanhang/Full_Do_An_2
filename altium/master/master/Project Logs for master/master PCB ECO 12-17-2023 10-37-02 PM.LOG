@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=T0 Pin=U1-8
+Removed Pin From Net: NetName=A0 Pin=U1-9
+Added Pin To Net: NetName=T0 Pin=U1-10
+Added Pin To Net: NetName=A0 Pin=U1-11
+Added Member To Class: ClassName=mach master Member=Component rs485 C6
+Added Room: Name=mach master

@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=BOOT
+Change Component Designator: OldDesignator=SW2 NewDesignator=EN
+Added Member To Class: ClassName=mach slave Member=Component BOOT SW
+Added Member To Class: ClassName=mach slave Member=Component EN SW
+Added Room: Name=mach slave

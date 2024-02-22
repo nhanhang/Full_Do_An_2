@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=AMS1-1
+Removed Pin From Net: NetName=3V3 Pin=AMS1-2
+Removed Pin From Net: NetName=VCC Pin=AMS1-3
+Removed Pin From Net: NetName=3V3 Pin=AMS1-4
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q2-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q2-2
+Removed Pin From Net: NetName=NetR6_2 Pin=R6-2
+Removed Pin From Net: NetName=NetQ1_2 Pin=R7-1
+Removed Pin From Net: NetName=NetR7_2 Pin=R7-2
+Removed Pin From Net: NetName=V3 Pin=U2-4
+Removed Pin From Net: NetName=NetR7_2 Pin=U2-13
+Removed Pin From Net: NetName=NetR6_2 Pin=U2-14
+Removed Pin From Net: NetName=VCC Pin=U2-16
+Removed Member From Class: ClassName=mach slave Member=AMS1
+Change Component Comment : Designator=C1 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=R5 Old Comment=470 New Comment=1k
+Change Component Comment : Designator=Q1 Old Comment=BC817 New Comment=c1815
+Change Component Comment : Designator=Q2 Old Comment=BC817 New Comment=c1815
+Added Component: Designator=DIO1(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=U3(LM1117-SOP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR6_2 Pin=DIO1-1
+Added Pin To Net: NetName=VCC Pin=DIO1-2
+Added Pin To Net: NetName=NetR6_2 Pin=J1-1
+Added Pin To Net: NetName=NetR7_2 Pin=Q2-1
+Added Pin To Net: NetName=V3 Pin=Q2-2
+Added Pin To Net: NetName=V3 Pin=R6-2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R7-2
+Added Pin To Net: NetName=3V3 Pin=U2-4
+Added Pin To Net: NetName=NetQ1_2 Pin=U2-13
+Added Pin To Net: NetName=V3 Pin=U2-14
+Added Pin To Net: NetName=3V3 Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=VCC Pin=U3-3
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetDIO1_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=V3 New Net Name=NetQ2_2
+Added Member To Class: ClassName=mach slave Member=Component DIO1 Diode SMD
+Added Member To Class: ClassName=mach slave Member=Component U3 LM1117-ADJ
+Added Room: Name=mach slave

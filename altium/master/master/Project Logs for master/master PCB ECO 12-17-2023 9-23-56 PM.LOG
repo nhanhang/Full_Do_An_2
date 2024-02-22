@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=DHT22 Old Footprint=JP3 New Footprint=Header3
+Change Component Footprint: Designator=EC Old Footprint=JP4-C1T New Footprint=Header4
+Change Component Footprint: Designator=RS485 Old Footprint=JP4-C1T New Footprint=Header4
+Change Component Footprint: Designator=RS485 Old Footprint=JP4-C1T New Footprint=Header4
+Added Member To Class: ClassName=mach master Member=Component rs485 C6
+Added Room: Name=mach master

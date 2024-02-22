@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=RD0 Pin=RS485-2
+Removed Pin From Net: NetName=RD0 Pin=RS485-3
+Added Room: Name=mach master

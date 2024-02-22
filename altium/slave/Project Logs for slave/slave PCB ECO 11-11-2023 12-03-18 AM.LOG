@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=RX2 Pin=rs1-1
+Removed Pin From Net: NetName=RD0 Pin=rs1-2
+Removed Pin From Net: NetName=RD0 Pin=rs1-3
+Removed Pin From Net: NetName=TX2 Pin=rs1-4
+Removed Member From Class: ClassName=mach slave Member=rs1
+Change Component Designator: OldDesignator=rs2 NewDesignator=rs485
+Added Component: Designator=C5(CAP_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Member To Class: ClassName=mach slave Member=Component C5 1uF
+Added Room: Name=mach slave

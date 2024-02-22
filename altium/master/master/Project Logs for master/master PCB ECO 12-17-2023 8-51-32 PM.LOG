@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=RESET Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=VCC Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=D0_P Pin=J2-2
+Removed Pin From Net: NetName=D0_N Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q2-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q2-2
+Removed Pin From Net: NetName=3V3 Pin=R1-1
+Removed Pin From Net: NetName=RESET Pin=R1-2
+Removed Pin From Net: NetName=NetR6_2 Pin=R6-2
+Removed Pin From Net: NetName=NetQ1_2 Pin=R7-1
+Removed Pin From Net: NetName=NetR7_2 Pin=R7-2
+Removed Pin From Net: NetName=RX Pin=U1-34
+Removed Pin From Net: NetName=TX Pin=U1-35
+Removed Pin From Net: NetName=TX Pin=U2-2
+Removed Pin From Net: NetName=RX Pin=U2-3
+Removed Pin From Net: NetName=V3 Pin=U2-4
+Removed Pin From Net: NetName=D0_N Pin=U2-5
+Removed Pin From Net: NetName=D0_P Pin=U2-6
+Removed Pin From Net: NetName=NetR7_2 Pin=U2-13
+Removed Pin From Net: NetName=NetR6_2 Pin=U2-14
+Removed Pin From Net: NetName=VCC Pin=U2-16
+Removed Member From Class: ClassName=mach master Member=C3
+Removed Member From Class: ClassName=mach master Member=C4
+Removed Member From Class: ClassName=mach master Member=J2
+Removed Member From Class: ClassName=mach master Member=R1
+Change Component Comment : Designator=C1 Old Comment=10uF New Comment=100uF
+Change Component Comment : Designator=C5 Old Comment=104 New Comment=10uF
+Added Component: Designator=C?(CAP_7343)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(USB-M1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".Checked PCB"; Value = "RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".Checked SCH"; Value = "MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".Creator"; Value = "MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/10118193.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/10118193.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB - micro B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Shielded, Solder Retention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle, Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.46, 10=0.433, 25=0.3712, 50=0.3156, 100=0.3032, 250=0.27224, 500=0.25988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specifications"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "28642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-4616-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=D0_N Pin=J1-2
+Added Pin To Net: NetName=D0_P Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=NetR6_2 Pin=Q2-1
+Added Pin To Net: NetName=NetR7_2 Pin=Q2-2
+Added Pin To Net: NetName=NetR7_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R7-2
+Added Pin To Net: NetName=V3 Pin=U1-34
+Added Pin To Net: NetName=V3 Pin=U2-2
+Added Pin To Net: NetName=3V3 Pin=U2-4
+Added Pin To Net: NetName=D0_P Pin=U2-5
+Added Pin To Net: NetName=D0_N Pin=U2-6
+Added Pin To Net: NetName=NetQ1_2 Pin=U2-13
+Added Pin To Net: NetName=NetR7_2 Pin=U2-14
+Added Pin To Net: NetName=3V3 Pin=U2-16
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=RESET New Net Name=EN
+Change Net Name : Old Net Name=V3 New Net Name=CH340_TX
+Added Pin To Net: NetName=CH340_RX Pin=U1-35
+Added Pin To Net: NetName=CH340_RX Pin=U2-3
+Added Net: Name=CH340_RX
+Added Member To Class: ClassName=mach master Member=Component C? CAP_TAN_SMD
+Added Member To Class: ClassName=mach master Member=Component J1 USB-5
+Added Member To Class: ClassName=mach master Member=Component JDC1 Jack DC
+Added Member To Class: ClassName=mach master Member=Component rs485 C6
+Added Room: Name=mach master

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP ALU SIZE B New Footprint=CAP-ALU-SMD-C
+Change Component Comment : Designator=R4 Old Comment=10k New Comment=1k
+Change Component Designator: OldDesignator=DHT22 NewDesignator=DHT1
+Added Member To Class: ClassName=mach slave Member=Component AMS1 AMS1117-3.3V
+Added Member To Class: ClassName=mach slave Member=Component C6 100nF
+Added Member To Class: ClassName=mach slave Member=Component C7 100nF
+Added Member To Class: ClassName=mach slave Member=Component C8 100nF
+Added Member To Class: ClassName=mach slave Member=Component DHT1 J1
+Added Member To Class: ClassName=mach slave Member=Component LED1 LED
+Added Member To Class: ClassName=mach slave Member=Component R1 10k
+Added Member To Class: ClassName=mach slave Member=Component R4 1k
+Added Member To Class: ClassName=mach slave Member=Component R5 470
+Added Member To Class: ClassName=mach slave Member=Component R6 10k
+Added Member To Class: ClassName=mach slave Member=Component SW1 SW
+Added Member To Class: ClassName=mach slave Member=Component SW2 SW
+Added Room: Name=mach slave

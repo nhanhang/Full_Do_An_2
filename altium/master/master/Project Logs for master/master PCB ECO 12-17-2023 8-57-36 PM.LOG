@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Member From Class: ClassName=mach master Member=C?
+Added Component: Designator=C3(tu tantalum smd3216)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001954"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 106C-10uF 16V SMD3216"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Member To Class: ClassName=mach master Member=Component C3 10uF
+Added Member To Class: ClassName=mach master Member=Component rs485 C6
+Added Room: Name=mach master
