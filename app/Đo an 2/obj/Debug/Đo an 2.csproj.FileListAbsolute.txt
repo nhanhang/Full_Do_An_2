@@ -1,0 +1,10 @@
+D:\Đồ án\đồ án 2\app\Đo an 2\bin\Debug\Đo an 2.exe.config
+D:\Đồ án\đồ án 2\app\Đo an 2\bin\Debug\Đo an 2.exe
+D:\Đồ án\đồ án 2\app\Đo an 2\bin\Debug\Đo an 2.pdb
+D:\Đồ án\đồ án 2\app\Đo an 2\obj\Debug\Đo an 2.csproj.AssemblyReference.cache
+D:\Đồ án\đồ án 2\app\Đo an 2\obj\Debug\Đo_an_2.Form1.resources
+D:\Đồ án\đồ án 2\app\Đo an 2\obj\Debug\Đo_an_2.Properties.Resources.resources
+D:\Đồ án\đồ án 2\app\Đo an 2\obj\Debug\Đo an 2.csproj.GenerateResource.cache
+D:\Đồ án\đồ án 2\app\Đo an 2\obj\Debug\Đo an 2.csproj.CoreCompileInputs.cache
+D:\Đồ án\đồ án 2\app\Đo an 2\obj\Debug\Đo an 2.exe
+D:\Đồ án\đồ án 2\app\Đo an 2\obj\Debug\Đo an 2.pdb
